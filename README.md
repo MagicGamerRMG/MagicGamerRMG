@@ -1,2 +1,4 @@
 # Hello, i do things i guess
-MG Bots: https://bots.magicgamer.xyz\nAdd Tickets: https://mgbots.github.io/tickets
+MG Bots: https://bots.magicgamer.xyz
+
+Add Tickets: https://mgbots.github.io/tickets
