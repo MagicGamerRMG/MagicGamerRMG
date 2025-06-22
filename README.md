@@ -9,7 +9,9 @@ Projects i dont own, but help out on :]
 Wrapped V2: https://wrapped.site built by the increidble @wrappeddev
 Leveret: https://www.leveret.app/ by Akairia
 
-Management for Several servers
+I also do Management for Several Discord servers
 
 ## Socials 
 ✨ Discord: `@magicgamer`
+🦋 Bluesky: `‪@magicgamer.xyz‬` 
+☁️ Steam: ID: `realmagicgamer`
