@@ -13,6 +13,6 @@ I also do Management for Several Discord servers
 
 ## Socials 
 
-✨ Discord: `@magicgamer`
-🦋 Bluesky: `‪@magicgamer.xyz‬` 
+✨ Discord: `@magicgamer`<br>
+🦋 Bluesky: `‪@magicgamer.xyz‬`<br>
 ☁️ Steam: ID: `realmagicgamer`
