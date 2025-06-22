@@ -12,6 +12,7 @@ Leveret: https://www.leveret.app/ by Akairia
 I also do Management for Several Discord servers
 
 ## Socials 
+
 ✨ Discord: `@magicgamer`
 🦋 Bluesky: `‪@magicgamer.xyz‬` 
 ☁️ Steam: ID: `realmagicgamer`
