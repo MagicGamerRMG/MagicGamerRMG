@@ -6,7 +6,7 @@ Im mainly working on [Tickets](https://tickets.magicgamer.xyz), [CyberShield](ht
 
 ---<u>Other Projects---</u><br>
 Projects i dont own, but help out on :]<br>
-Wrapped V2: https://wrapped.site built by the increidble @wrappeddev<br>
+Wrapped V2: https://wrapped.site built by the increidble [@wrappeddev](https://github.com/wrappeddev)<br>
 Leveret: https://www.leveret.app/ by Akairia
 
 I also do Management for Several Discord servers
