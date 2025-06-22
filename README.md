@@ -13,7 +13,5 @@ I also do Management for Several Discord servers
 
 ## Socials 
 ✨ Discord: `@magicgamer`
-
 🦋 Bluesky: `‪@magicgamer.xyz‬` 
-
 ☁️ Steam: ID: `realmagicgamer`
