@@ -1,4 +1,5 @@
 # Ah, Hey there, im MagicGamer 👋
+Personal site i work on from time to time as i learn: https://magicgamer.xyz
 Im Mainly a Discord Bot Developer for my studio [Invomagic](https://invomagic.com) :]
 I also do **Discord Server Management & Design**
 
